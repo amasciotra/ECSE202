@@ -1,0 +1,21 @@
+vpn79040:src amasciotra$ java calc.calc 2 + 10 x 5 / 9 - 4
+ 2 + 10 x 5 / 9 - 4 = 3.5555553
+vpn79040:src amasciotra$ java calc.calc 5 x 9 + 7 / 3 ^ 2
+ 5 x 9 + 7 / 3 ^ 2 = 45.77778
+vpn79040:src amasciotra$ java calc.calc 4 ^ 2 / 8 - 3 x 10
+ 4 ^ 2 / 8 - 3 x 10 = -28.0
+vpn79040:src amasciotra$ java calc.calc 5 - 9 + 6 / 2
+ 5 - 9 + 6 / 2 = -1.0
+vpn79040:src amasciotra$ java calc.calc 2 / 9 + 10 - 8 ^ 2 x 7 + 3
+ 2 / 9 + 10 - 8 ^ 2 x 7 + 3 = -440.77777
+vpn79040:src amasciotra$ java calc.calc 9 ^ 4 / 4 - 3 x 21
+ 9 ^ 4 / 4 - 3 x 21 = 1577.25
+vpn79040:src amasciotra$ java calc.calc 7 x 9 / 22 + 10 - 8 x 3
+ 7 x 9 / 22 + 10 - 8 x 3 = -11.136364
+vpn79040:src amasciotra$ java calc.calc 2 + 3 ^ 7 / 5
+ 2 + 3 ^ 7 / 5 = 439.4
+vpn79040:src amasciotra$ java calc.calc 3 x 9 - 2 + 9 ^ 2 / 2
+ 3 x 9 - 2 + 9 ^ 2 / 2 = 65.5
+vpn79040:src amasciotra$ 
+
+

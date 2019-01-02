@@ -1,0 +1,31 @@
+Running test trials out of the Arguments from the Run Configurations button in Eclipse
+
+In2post: 2 + 10 x 5 / 9 - 4
+Postfix: 2 10 5 x 9 / 4 - + 
+
+In2post: 5 x 9 + 7 / 3
+Postfix: 5 9 x 7 3 / + 
+
+In2post: 4 / 8 - 3 x 10
+Postfix: 4 8 / 3 10 x - 
+
+In2post: 5 - 9 + 6 / 2
+Postfix: 5 9 - 6 2 / + 
+
+In2post: 2 / 9 + 10 - 8 x 7 + 3
+Postfix: 2 9 / 10 + 8 7 x 3 + - 
+
+In2post: 9 / 4 - 3 x 21
+Postfix: 9 4 / 3 21 x - 
+
+In2post: 7 x 9 / 22 + 10 - 8 x 3
+Postfix: 7 9 x 22 / 10 + 8 3 x - 
+
+In2post: 2 + 3 / 5
+Postfix: 2 3 5 / + 
+
+In2post: 3 x 9 - 2 + 9 / 2
+Postfix: 3 9 x 2 - 9 2 / + 
+
+In2post: 2 x 10 + 3 / 2 - 8
+Postfix: 2 10 x 3 2 / 8 - + 
